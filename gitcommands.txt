@@ -4,5 +4,6 @@ git status - to check status of files to see if there created or modified
 git add -filename(only single file) - to add files to local repository
 git add .(dot)  - to add multiple files to local repository
 git commit -am "added new files to repository" - this will commit all changes made to files
-git push origin main -
+git push origin main - to push the changes to remote repository
 git diff - to see the difference made to files
+git pull orgin main - to pull the changes from remote repository
