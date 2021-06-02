@@ -1,2 +1,2 @@
 # git-begin
-My first repository to explore git commands
+My first repository to explore git command.
